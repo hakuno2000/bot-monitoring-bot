@@ -21,8 +21,8 @@ const monitoredBots = [
   "MONITORED_BOT_ID_1", // example: music bot
   "MONITORED_BOT_ID_2", // example: moderation bot
 ];
-const ALERT_CHANNEL_ID = "YOUR_ALERT_CHANNEL_ID";
-const GUILD_ID = "YOUR_GUILD_ID";
+const ALERT_CHANNEL_ID = "CHANNEL_ID";
+const GUILD_ID = "GUILD_ID";
 const CHECK_INTERVAL = 60 * 1000; // 1 minute
 
 // ====== SLASH COMMAND REGISTRATION ======
